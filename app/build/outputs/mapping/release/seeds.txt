@@ -1,0 +1,54 @@
+com.xiaolian.mpaasdemo.BuildConfig
+com.xiaolian.mpaasdemo.BuildConfig: boolean DEBUG
+com.xiaolian.mpaasdemo.BuildConfig: java.lang.String APPLICATION_ID
+com.xiaolian.mpaasdemo.BuildConfig: java.lang.String BUILD_TYPE
+com.xiaolian.mpaasdemo.BuildConfig: java.lang.String FLAVOR
+com.xiaolian.mpaasdemo.BuildConfig: int VERSION_CODE
+com.xiaolian.mpaasdemo.BuildConfig: java.lang.String VERSION_NAME
+com.xiaolian.mpaasdemo.BuildConfig: BuildConfig()
+com.xiaolian.mpaasdemo.R
+com.xiaolian.mpaasdemo.R: R()
+com.xiaolian.mpaasdemo.R$attr
+com.xiaolian.mpaasdemo.R$attr: R$attr()
+com.xiaolian.mpaasdemo.R$color
+com.xiaolian.mpaasdemo.R$color: int white_color
+com.xiaolian.mpaasdemo.R$color: R$color()
+com.xiaolian.mpaasdemo.R$drawable
+com.xiaolian.mpaasdemo.R$drawable: int download_cancel_btn_selector
+com.xiaolian.mpaasdemo.R$drawable: int download_cancel_normal
+com.xiaolian.mpaasdemo.R$drawable: int download_cancel_press
+com.xiaolian.mpaasdemo.R$drawable: int download_icon
+com.xiaolian.mpaasdemo.R$drawable: int download_progress_horizontal
+com.xiaolian.mpaasdemo.R$drawable: int yw_1222
+com.xiaolian.mpaasdemo.R$drawable: R$drawable()
+com.xiaolian.mpaasdemo.R$id
+com.xiaolian.mpaasdemo.R$id: int about_process_icon
+com.xiaolian.mpaasdemo.R$id: int download_process_bar
+com.xiaolian.mpaasdemo.R$id: int download_process_title_txt
+com.xiaolian.mpaasdemo.R$id: int progress_text
+com.xiaolian.mpaasdemo.R$id: int promt
+com.xiaolian.mpaasdemo.R$id: int relativeLayout1
+com.xiaolian.mpaasdemo.R$id: int tv_init
+com.xiaolian.mpaasdemo.R$id: int update_cancel_btn
+com.xiaolian.mpaasdemo.R$id: R$id()
+com.xiaolian.mpaasdemo.R$layout
+com.xiaolian.mpaasdemo.R$layout: int download_progress
+com.xiaolian.mpaasdemo.R$layout: int init
+com.xiaolian.mpaasdemo.R$layout: R$layout()
+com.xiaolian.mpaasdemo.R$mipmap
+com.xiaolian.mpaasdemo.R$mipmap: int ic_launcher
+com.xiaolian.mpaasdemo.R$mipmap: R$mipmap()
+com.xiaolian.mpaasdemo.R$string
+com.xiaolian.mpaasdemo.R$string: int app_name
+com.xiaolian.mpaasdemo.R$string: R$string()
+com.xiaolian.mpaasdemo.R$style
+com.xiaolian.mpaasdemo.R$style: int AppThemeNew
+com.xiaolian.mpaasdemo.R$style: int Download_ProgressBar_Horizontal
+com.xiaolian.mpaasdemo.R$style: int Transparent
+com.xiaolian.mpaasdemo.R$style: int TransparentNoAnimationTheme
+com.xiaolian.mpaasdemo.R$style: int h5_transparent
+com.xiaolian.mpaasdemo.R$style: int notify_progress
+com.xiaolian.mpaasdemo.R$style: int notify_title
+com.xiaolian.mpaasdemo.R$style: int share_select_dialog
+com.xiaolian.mpaasdemo.R$style: int tablauncher_theme
+com.xiaolian.mpaasdemo.R$style: R$style()

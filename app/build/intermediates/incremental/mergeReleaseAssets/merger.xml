@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/assets"><file name="mpaas.properties" path="/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/assets/mpaas.properties"/></source><source path="/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/release/assets"/></dataSet></merger>

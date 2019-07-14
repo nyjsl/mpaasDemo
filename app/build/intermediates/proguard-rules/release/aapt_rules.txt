@@ -1,0 +1,189 @@
+# view AndroidManifest.xml #generated:244
+-keep class android.support.multidex.MultiDexPreloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.alipay.android.phone.mobilecommon.dynamicrelease.DynamicReleaseProcessService { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.alipay.android.phone.mobilecommon.dynamicrelease.DynamicReleaseRequestService { <init>(...); }
+
+# view AndroidManifest.xml #generated:158
+-keep class com.alipay.android.phone.mobilecommon.dynamicrelease.SyncConfigReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.alipay.android.phone.mobilecommon.dynamicrelease.page.BundleDownloadPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.alipay.android.phone.mobilesdk.apm.service.APMInnerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class com.alipay.mobile.android.security.upgrade.download.normal.UpgradeExternalDownloadIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.alipay.mobile.common.fgbg.FgBgMonitorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.alipay.mobile.common.logging.process.LogServiceInMainProcess { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.alipay.mobile.common.logging.process.LogServiceInPushProcess { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.alipay.mobile.common.logging.process.LogServiceInToolsProcess { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.alipay.mobile.common.logging.process.LogServiceInlite1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.alipay.mobile.common.logging.process.LogServiceInlite2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.alipay.mobile.common.logging.process.LogServiceInlite3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class com.alipay.mobile.common.logging.process.LogServiceInlite4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.alipay.mobile.common.logging.process.LogServiceInlite5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.alipay.mobile.core.loading.impl.LoadingPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.alipay.mobile.h5plugin.H5MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:130
+-keep class com.alipay.mobile.liteprocess.LiteProcessActivity$LiteProcessActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.alipay.mobile.liteprocess.LiteProcessActivity$LiteProcessActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.alipay.mobile.liteprocess.LiteProcessActivity$LiteProcessActivity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.alipay.mobile.liteprocess.LiteProcessActivity$LiteProcessActivity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.alipay.mobile.liteprocess.LiteProcessActivity$LiteProcessActivity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.alipay.mobile.liteprocess.LiteProcessService$LiteProcessService1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.alipay.mobile.liteprocess.LiteProcessService$LiteProcessService2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.alipay.mobile.liteprocess.LiteProcessService$LiteProcessService3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.alipay.mobile.liteprocess.LiteProcessService$LiteProcessService4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.alipay.mobile.liteprocess.LiteProcessService$LiteProcessService5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.alipay.mobile.liteprocess.ipc.IpcCallServer { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.alipay.mobile.liteprocess.ipc.IpcMsgServer { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.alipay.mobile.logmonitor.ClientMonitorExtReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.alipay.mobile.logmonitor.TraceStubReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class com.alipay.mobile.nebula.appcenter.apphandler.loadingview.H5LoadingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:220
+-keep class com.alipay.mobile.nebulacore.SandboxedPrivilegedProcessService0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:219
+-keep class com.alipay.mobile.nebulacore.SandboxedProcessService0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.alipay.mobile.nebulacore.dev.ui.H5BugMeSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity$H5Activity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity$H5Activity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity$H5Activity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:201
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity$H5Activity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.alipay.mobile.nebulacore.ui.H5Activity$H5Activity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.alipay.mobile.nebulacore.ui.H5FileChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.alipay.mobile.nebulacore.ui.H5NebulaAppActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.alipay.mobile.nebulacore.ui.H5NetworkCheckActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity$H5TransActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:214
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity$H5TransActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity$H5TransActivity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity$H5TransActivity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class com.alipay.mobile.nebulacore.ui.H5TransActivity$H5TransActivity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.alipay.mobile.nebulacore.wallet.H5DevAppActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.alipay.mobile.quinox.LauncherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.alipay.mobile.quinox.LauncherApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.alipay.mobile.quinox.activity.StubActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:230
+-keep class com.alipay.mobile.quinox.classloader.DexOptServiceInToolsProcess { <init>(...); }
+
+# view AndroidManifest.xml #generated:235
+-keep class com.alipay.mobile.quinox.preload.PreloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.alipay.mobile.rome.syncsdk.service.LongLinkService { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.alipay.pushsdk.push.AppInfoRecvIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.alipay.pushsdk.push.NotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:250
+-keep class com.amap.api.location.APSService { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.xiaolian.mpaasdemo.launcher.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class org.altbeacon.beacon.service.ScanJob { <init>(...); }
+

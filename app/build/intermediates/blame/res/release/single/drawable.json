@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable/download_progress_horizontal.xml",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable/download_progress_horizontal.xml"
+    },
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable/download_cancel_btn_selector.xml",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable/download_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable/yw_1222.jpg",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable/yw_1222.jpg"
+    },
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable/download_icon.png",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable/download_icon.png"
+    }
+]

@@ -1,0 +1,54 @@
+com.xiaolian.mpaasdemo.BuildConfig -> com.xiaolian.mpaasdemo.BuildConfig:
+    boolean DEBUG -> DEBUG
+    java.lang.String APPLICATION_ID -> APPLICATION_ID
+    java.lang.String BUILD_TYPE -> BUILD_TYPE
+    java.lang.String FLAVOR -> FLAVOR
+    int VERSION_CODE -> VERSION_CODE
+    java.lang.String VERSION_NAME -> VERSION_NAME
+    6:6:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R -> com.xiaolian.mpaasdemo.R:
+    10:10:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$attr -> com.xiaolian.mpaasdemo.R$attr:
+    11:11:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$color -> com.xiaolian.mpaasdemo.R$color:
+    int white_color -> white_color
+    13:13:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$drawable -> com.xiaolian.mpaasdemo.R$drawable:
+    int download_cancel_btn_selector -> download_cancel_btn_selector
+    int download_cancel_normal -> download_cancel_normal
+    int download_cancel_press -> download_cancel_press
+    int download_icon -> download_icon
+    int download_progress_horizontal -> download_progress_horizontal
+    int yw_1222 -> yw_1222
+    16:16:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$id -> com.xiaolian.mpaasdemo.R$id:
+    int about_process_icon -> about_process_icon
+    int download_process_bar -> download_process_bar
+    int download_process_title_txt -> download_process_title_txt
+    int progress_text -> progress_text
+    int promt -> promt
+    int relativeLayout1 -> relativeLayout1
+    int tv_init -> tv_init
+    int update_cancel_btn -> update_cancel_btn
+    24:24:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$layout -> com.xiaolian.mpaasdemo.R$layout:
+    int download_progress -> download_progress
+    int init -> init
+    34:34:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$mipmap -> com.xiaolian.mpaasdemo.R$mipmap:
+    int ic_launcher -> ic_launcher
+    38:38:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$string -> com.xiaolian.mpaasdemo.R$string:
+    int app_name -> app_name
+    41:41:void <init>() -> <init>
+com.xiaolian.mpaasdemo.R$style -> com.xiaolian.mpaasdemo.R$style:
+    int AppThemeNew -> AppThemeNew
+    int Download_ProgressBar_Horizontal -> Download_ProgressBar_Horizontal
+    int Transparent -> Transparent
+    int TransparentNoAnimationTheme -> TransparentNoAnimationTheme
+    int h5_transparent -> h5_transparent
+    int notify_progress -> notify_progress
+    int notify_title -> notify_title
+    int share_select_dialog -> share_select_dialog
+    int tablauncher_theme -> tablauncher_theme
+    44:44:void <init>() -> <init>

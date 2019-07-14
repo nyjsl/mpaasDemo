@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable-hdpi-v4/download_cancel_normal.png",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable-hdpi/download_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/drawable-hdpi-v4/download_cancel_press.png",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/drawable-hdpi/download_cancel_press.png"
+    }
+]

@@ -1,0 +1,900 @@
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/BuildConfig
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.BuildConfig extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 33):
+  + Integer [0]
+  + Integer [1]
+  + String []
+  + String [1.0.0.1]
+  + String [com.xiaolian.mpaasdemo]
+  + String [release]
+  + Class [com/xiaolian/mpaasdemo/BuildConfig]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 []
+  + Utf8 [()V]
+  + Utf8 [1.0.0.1]
+  + Utf8 [<init>]
+  + Utf8 [APPLICATION_ID]
+  + Utf8 [BUILD_TYPE]
+  + Utf8 [BuildConfig.java]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [DEBUG]
+  + Utf8 [FLAVOR]
+  + Utf8 [I]
+  + Utf8 [LineNumberTable]
+  + Utf8 [Ljava/lang/String;]
+  + Utf8 [SourceFile]
+  + Utf8 [VERSION_CODE]
+  + Utf8 [VERSION_NAME]
+  + Utf8 [Z]
+  + Utf8 [com.xiaolian.mpaasdemo]
+  + Utf8 [com/xiaolian/mpaasdemo/BuildConfig]
+  + Utf8 [java/lang/Object]
+  + Utf8 [release]
+
+Fields (count = 6):
+  + Field:        DEBUG Z
+    Access flags: 0x19
+      = public static final boolean DEBUG
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [0]
+  + Field:        APPLICATION_ID Ljava/lang/String;
+    Access flags: 0x19
+      = public static final java.lang.String APPLICATION_ID
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + String [com.xiaolian.mpaasdemo]
+  + Field:        BUILD_TYPE Ljava/lang/String;
+    Access flags: 0x19
+      = public static final java.lang.String BUILD_TYPE
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + String [release]
+  + Field:        FLAVOR Ljava/lang/String;
+    Access flags: 0x19
+      = public static final java.lang.String FLAVOR
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + String []
+  + Field:        VERSION_CODE I
+    Access flags: 0x19
+      = public static final int VERSION_CODE
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [1]
+  + Field:        VERSION_NAME Ljava/lang/String;
+    Access flags: 0x19
+      = public static final java.lang.String VERSION_NAME
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + String [1.0.0.1]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public BuildConfig()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #9
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 6
+
+Class file attributes (count = 1):
+  + Source file attribute:
+    + Utf8 [BuildConfig.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 38):
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$attr]
+  + Class [com/xiaolian/mpaasdemo/R$color]
+  + Class [com/xiaolian/mpaasdemo/R$drawable]
+  + Class [com/xiaolian/mpaasdemo/R$id]
+  + Class [com/xiaolian/mpaasdemo/R$layout]
+  + Class [com/xiaolian/mpaasdemo/R$mipmap]
+  + Class [com/xiaolian/mpaasdemo/R$string]
+  + Class [com/xiaolian/mpaasdemo/R$style]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [attr]
+  + Utf8 [color]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$attr]
+  + Utf8 [com/xiaolian/mpaasdemo/R$color]
+  + Utf8 [com/xiaolian/mpaasdemo/R$drawable]
+  + Utf8 [com/xiaolian/mpaasdemo/R$id]
+  + Utf8 [com/xiaolian/mpaasdemo/R$layout]
+  + Utf8 [com/xiaolian/mpaasdemo/R$mipmap]
+  + Utf8 [com/xiaolian/mpaasdemo/R$string]
+  + Utf8 [com/xiaolian/mpaasdemo/R$style]
+  + Utf8 [drawable]
+  + Utf8 [id]
+  + Utf8 [java/lang/Object]
+  + Utf8 [layout]
+  + Utf8 [mipmap]
+  + Utf8 [string]
+  + Utf8 [style]
+
+Fields (count = 0):
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #11
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 10
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 8)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$style]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [style]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$string]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [string]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$mipmap]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [mipmap]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$layout]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [layout]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$id]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [id]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$drawable]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [drawable]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$color]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [color]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$attr]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [attr]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$attr
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$attr extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 17):
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$attr]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [attr]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$attr]
+  + Utf8 [java/lang/Object]
+
+Fields (count = 0):
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$attr()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #4
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 11
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$attr]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [attr]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$color
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$color extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 21):
+  + Integer [2131165184]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$color]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [color]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$color]
+  + Utf8 [java/lang/Object]
+  + Utf8 [white_color]
+
+Fields (count = 1):
+  + Field:        white_color I
+    Access flags: 0x19
+      = public static final int white_color
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131165184]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$color()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #5
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 13
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$color]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [color]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$drawable
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$drawable extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 31):
+  + Integer [2130837504]
+  + Integer [2130837505]
+  + Integer [2130837506]
+  + Integer [2130837507]
+  + Integer [2130837508]
+  + Integer [2130837509]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$drawable]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$drawable]
+  + Utf8 [download_cancel_btn_selector]
+  + Utf8 [download_cancel_normal]
+  + Utf8 [download_cancel_press]
+  + Utf8 [download_icon]
+  + Utf8 [download_progress_horizontal]
+  + Utf8 [drawable]
+  + Utf8 [java/lang/Object]
+  + Utf8 [yw_1222]
+
+Fields (count = 6):
+  + Field:        download_cancel_btn_selector I
+    Access flags: 0x19
+      = public static final int download_cancel_btn_selector
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837505]
+  + Field:        download_cancel_normal I
+    Access flags: 0x19
+      = public static final int download_cancel_normal
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837506]
+  + Field:        download_cancel_press I
+    Access flags: 0x19
+      = public static final int download_cancel_press
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837507]
+  + Field:        download_icon I
+    Access flags: 0x19
+      = public static final int download_icon
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837508]
+  + Field:        download_progress_horizontal I
+    Access flags: 0x19
+      = public static final int download_progress_horizontal
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837509]
+  + Field:        yw_1222 I
+    Access flags: 0x19
+      = public static final int yw_1222
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130837504]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$drawable()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #10
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 16
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$drawable]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [drawable]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$id
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$id extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 35):
+  + Integer [2131099648]
+  + Integer [2131099649]
+  + Integer [2131099650]
+  + Integer [2131099651]
+  + Integer [2131099652]
+  + Integer [2131099653]
+  + Integer [2131099654]
+  + Integer [2131099655]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$id]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [about_process_icon]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$id]
+  + Utf8 [download_process_bar]
+  + Utf8 [download_process_title_txt]
+  + Utf8 [id]
+  + Utf8 [java/lang/Object]
+  + Utf8 [progress_text]
+  + Utf8 [promt]
+  + Utf8 [relativeLayout1]
+  + Utf8 [tv_init]
+  + Utf8 [update_cancel_btn]
+
+Fields (count = 8):
+  + Field:        about_process_icon I
+    Access flags: 0x19
+      = public static final int about_process_icon
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099649]
+  + Field:        download_process_bar I
+    Access flags: 0x19
+      = public static final int download_process_bar
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099652]
+  + Field:        download_process_title_txt I
+    Access flags: 0x19
+      = public static final int download_process_title_txt
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099651]
+  + Field:        progress_text I
+    Access flags: 0x19
+      = public static final int progress_text
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099653]
+  + Field:        promt I
+    Access flags: 0x19
+      = public static final int promt
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099648]
+  + Field:        relativeLayout1 I
+    Access flags: 0x19
+      = public static final int relativeLayout1
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099654]
+  + Field:        tv_init I
+    Access flags: 0x19
+      = public static final int tv_init
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099655]
+  + Field:        update_cancel_btn I
+    Access flags: 0x19
+      = public static final int update_cancel_btn
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131099650]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$id()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #12
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 24
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$id]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [id]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$layout
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$layout extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 23):
+  + Integer [2130903040]
+  + Integer [2130903041]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$layout]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$layout]
+  + Utf8 [download_progress]
+  + Utf8 [init]
+  + Utf8 [java/lang/Object]
+  + Utf8 [layout]
+
+Fields (count = 2):
+  + Field:        download_progress I
+    Access flags: 0x19
+      = public static final int download_progress
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130903040]
+  + Field:        init I
+    Access flags: 0x19
+      = public static final int init
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130903041]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$layout()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #6
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 34
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$layout]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [layout]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$mipmap
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$mipmap extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 21):
+  + Integer [2130968576]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$mipmap]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$mipmap]
+  + Utf8 [ic_launcher]
+  + Utf8 [java/lang/Object]
+  + Utf8 [mipmap]
+
+Fields (count = 1):
+  + Field:        ic_launcher I
+    Access flags: 0x19
+      = public static final int ic_launcher
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2130968576]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$mipmap()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #5
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 38
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$mipmap]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [mipmap]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$string
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$string extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 21):
+  + Integer [2131230720]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$string]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [app_name]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$string]
+  + Utf8 [java/lang/Object]
+  + Utf8 [string]
+
+Fields (count = 1):
+  + Field:        app_name I
+    Access flags: 0x19
+      = public static final int app_name
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131230720]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$string()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #5
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 41
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$string]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [string]
+  + Source file attribute:
+    + Utf8 [R.java]
+
+_____________________________________________________________________
++ Program class: com/xiaolian/mpaasdemo/R$style
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.xiaolian.mpaasdemo.R$style extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 37):
+  + Integer [2131034112]
+  + Integer [2131034113]
+  + Integer [2131034114]
+  + Integer [2131034115]
+  + Integer [2131034116]
+  + Integer [2131034117]
+  + Integer [2131034118]
+  + Integer [2131034119]
+  + Integer [2131034120]
+  + Class [com/xiaolian/mpaasdemo/R]
+  + Class [com/xiaolian/mpaasdemo/R$style]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [AppThemeNew]
+  + Utf8 [Code]
+  + Utf8 [ConstantValue]
+  + Utf8 [Download_ProgressBar_Horizontal]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [R.java]
+  + Utf8 [SourceFile]
+  + Utf8 [Transparent]
+  + Utf8 [TransparentNoAnimationTheme]
+  + Utf8 [com/xiaolian/mpaasdemo/R]
+  + Utf8 [com/xiaolian/mpaasdemo/R$style]
+  + Utf8 [h5_transparent]
+  + Utf8 [java/lang/Object]
+  + Utf8 [notify_progress]
+  + Utf8 [notify_title]
+  + Utf8 [share_select_dialog]
+  + Utf8 [style]
+  + Utf8 [tablauncher_theme]
+
+Fields (count = 9):
+  + Field:        AppThemeNew I
+    Access flags: 0x19
+      = public static final int AppThemeNew
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034112]
+  + Field:        Download_ProgressBar_Horizontal I
+    Access flags: 0x19
+      = public static final int Download_ProgressBar_Horizontal
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034119]
+  + Field:        Transparent I
+    Access flags: 0x19
+      = public static final int Transparent
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034113]
+  + Field:        TransparentNoAnimationTheme I
+    Access flags: 0x19
+      = public static final int TransparentNoAnimationTheme
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034114]
+  + Field:        h5_transparent I
+    Access flags: 0x19
+      = public static final int h5_transparent
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034115]
+  + Field:        notify_progress I
+    Access flags: 0x19
+      = public static final int notify_progress
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034118]
+  + Field:        notify_title I
+    Access flags: 0x19
+      = public static final int notify_title
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034117]
+  + Field:        share_select_dialog I
+    Access flags: 0x19
+      = public static final int share_select_dialog
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034116]
+  + Field:        tablauncher_theme I
+    Access flags: 0x19
+      = public static final int tablauncher_theme
+    Class member attributes (count = 1):
+    + Constant value attribute:
+    + Integer [2131034120]
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$style()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #13
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 44
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/xiaolian/mpaasdemo/R$style]
+      + Class [com/xiaolian/mpaasdemo/R]
+      + Utf8 [style]
+  + Source file attribute:
+    + Utf8 [R.java]
+

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/layout/init.xml",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/layout/init.xml"
+    },
+    {
+        "merged": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/build/intermediates/res/merged/release/layout/download_progress.xml",
+        "source": "/Users/weixing/AndroidStudioProjects/mpaasDemo/app/src/main/res/layout/download_progress.xml"
+    }
+]
